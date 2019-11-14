@@ -1,0 +1,30 @@
+.baslik{
+  margin-left:200px;
+  margin-right:200px;
+  font-size: 50px;
+
+  text-align: center;
+}
+.form{
+
+  margin: 40px 200px 0 200px;
+}
+body{
+  background-color: #F0F8FF;
+}
+#drop_zone{
+  background-color: #ddd;
+  background-image: image("128.png");
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  height: 400px;
+  border : 3px dashed #ccc;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  cursor:pointer;
+}
