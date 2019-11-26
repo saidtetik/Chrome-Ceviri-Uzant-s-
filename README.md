@@ -1,6 +1,5 @@
 # Chrome-Ceviri-Uzantisi
 
-* Bu uzanti her hangi bir kirille harfleri olan sitedeyken basildiginda o siteyi latin harflerine cevirip
-  - bilgisayariniza indirmektedir.
+ * Bu uzanti herhangi bir kiril harfleri ile yazilmis kazakca bir sitedeyken basildiginda o siteyi latin harflerine cevirmektedir.
  * Teknoloji olarak PHP,JavaScript,VBA kullanilmistir.
  * Bu uzanti Atom editorunde gelistirilmistir.
