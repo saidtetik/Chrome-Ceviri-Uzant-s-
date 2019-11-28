@@ -1,4 +1,4 @@
-# Chrome-Ceviri-Uzantisi
+# Web-Ceviri
 
  * Bu site Kiril harfleri ile yazılmıs bir word metnini upload edip Latin harflerine çevirerek geri download ediyor.
  * Teknoloji olarak PHP,JavaScript,VBA kullanilmistir.
